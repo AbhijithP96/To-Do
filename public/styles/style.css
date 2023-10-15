@@ -1,0 +1,19 @@
+body{
+    background: url("../images/bg.jpg");
+    background-size: cover;
+}
+.tasks{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.contain{
+    border: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+    
+}
